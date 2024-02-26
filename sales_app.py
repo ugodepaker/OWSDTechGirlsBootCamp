@@ -26,7 +26,7 @@ st.title('Welcome to the Sales Prediction Platform!')
 st.write("This platform is designed to help you predict sales based on your advertising expenditure.")
 
 # Introduction to advertising channels and costs
-st.header('Advertising Channels and Costs')
+st.header('Advertising Channels')
 st.write("Before we make predictions, let's introduce you to the advertising channels ")
 st.write("- TV Advertisment")
 st.write("- Radio Advertisment")
